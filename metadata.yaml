@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7642'
     url: http://www.gutenberg.org/2009/agents/7642
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26978#Salem-Witchcraft-and-Cotton-MatherA-Reply
 gutenberg_bookshelf: Witchcraft
 gutenberg_issued: '2008-10-20'
 gutenberg_type: Text
